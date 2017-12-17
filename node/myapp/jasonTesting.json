@@ -1,50 +1,43 @@
 {
-  "categoryName": "Appetizers & Sides",
-  "categories": [
+  "teamName": "Gear of Tigers",
+  "teamType": "European Rover Challenge 2016" ,
+  "teamService_1": "HARDWARE", 
+  "teamService_2": "SOFTWARE",
+  "teamServiceOne": "Hardware System Designing & Implementation", 
+  "teamServiceTwo": "Software & Web Designing & Implementation",
+  "teamSlideLineTwo": "We build your projects and take towards innovation",
+  "teamSlideLineOne": "We are the bunch of people with a vision to change technology", 
+ 
+  "teamMembers": [
     {
-      "categoryID": "294",
-      "parentID": "304",
-      "subjectID": "7",
-      "categoryName": "Apps and Side Dishes (Laura)",
-      "categoryDescription": "Learn to make amazing appetizers and side dishes with Laura in the Kitchen.",
-      "videosCount": "101",
-      "forumCategoryID": "163"
+      "teamID": "294",
+      "teamDesignation": "Team Leader",
+      "memberName": "Ejaj",
+      "memberDescription": "System and circuits Design,planning & Electronics"
     },
     {
-      "categoryID": "285",
-      "parentID": "304",
-      "subjectID": "7",
-      "categoryName": "Side Dishes",
-      "categoryDescription": "Side dish recipes for salads, vegetables, sauces with Hilah cooking.",
-      "videosCount": "38",
-      "forumCategoryID": "163"
+      "teamID": "295",
+      "teamDesignation": "Software Team Leader",
+      "memberName": "Rezwan Anjum Nibir",
+      "memberDescription": "Software Design and Development"
     },
     {
-      "categoryID": "337",
-      "parentID": "304",
-      "subjectID": "7",
-      "categoryName": "Side Dishes (bt)",
-      "categoryDescription": "Side dish recipes with Byron Talbott.",
-      "videosCount": "5",
-      "forumCategoryID": "163"
+      "teamID": "296",
+      "teamDesignation": "Software Team Member",
+      "memberName": "Sayed Siam",
+      "memberDescription": "Software Development & Implementation"
     },
     {
-      "categoryID": "301",
-      "parentID": "304",
-      "subjectID": "7",
-      "categoryName": "Side Dishes for Barbecue",
-      "categoryDescription": "Barbecue side dish recipes done on the grill by the BBQ Pit Boys!",
-      "videosCount": "43",
-      "forumCategoryID": "163"
+      "teamID": "297",
+      "teamDesignation": "Software Team Member",
+      "memberName": "Arman",
+      "memberDescription": "Software Development & Implementation"
     },
     {
-      "categoryID": "297",
-      "parentID": "304",
-      "subjectID": "7",
-      "categoryName": "Soups and Salads (Laura)",
-      "categoryDescription": "Looking for the perfect recipe to start your meal? Or are you looking to eat something on the lighter side? These are sure to have you covered!",
-      "videosCount": "70",
-      "forumCategoryID": "163"
+      "teamID": "298",
+      "teamDesignation": "Mechanical Team Leader",
+      "memberName": "Fahad",
+      "memberDescription": "Design & Electronics"
     }
   ]
 }
